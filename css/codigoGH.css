@@ -1,5 +1,6 @@
 body{
-  background-image:url(edgar-allan-poe.jpg);
+  background-color: black;
+  background-image: url(raven.jpg);
 
 }
 
@@ -10,10 +11,10 @@ h1{
 }
 
 p{
-   color:BLUE;
+   color:antiquewhite;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 15 px;
     font-weight: bolder;
     font-style: italic;
-    background-color: yellow;
+    
 }
