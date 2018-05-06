@@ -1,0 +1,19 @@
+body{
+  background-image:url(edgar-allan-poe.jpg);
+
+}
+
+h1{
+   color: antiquewhite;
+   font-family: cursive;
+
+}
+
+p{
+   color:BLUE;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15 px;
+    font-weight: bolder;
+    font-style: italic;
+    background-color: yellow;
+}
