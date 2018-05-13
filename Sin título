@@ -6,51 +6,10 @@
    </head>
    <body>
    <div class="titulo">
-     <h1 id="tit"> Lecturas de Edgar Allan Poe </h1>
+     <h1 id="tit"> La conversación de Eiros y Charmion </h1>
    </div>
 
 
-<div class="cont">
- 
-
-<div class="usher">
-  <a href="casausher.html">La Caida de la Casa Usher</a>
-</div>
-
-<div class="mesmerica">
-
-  <a href="rmesmerica.html">Revelación mesmérica</a>
-</div>
-
-<div class="palabras">
-
-  <a href="poderp.html">El poder de las palabras</a>
-</div>
-
-<div class="eiros">
-
-  <a href="eirosy.html">La conversación de Eiros y Charmion</a>
-</div>
-
-<div class="coloquio">
-
-  <a href="coloquioy.html">El coloquio de Monos y Una</a>
-</div>
-
-<div class="glos">
-
-  <a href="reseñas.html">Reseñas</a>
-</div>
-
-<div class="glos">
-
-  <a href="glosario.html">Glosario</a>
-</div>
-
-
-
-
-</div>
 
 
      <div id="disqus_thread"></div>

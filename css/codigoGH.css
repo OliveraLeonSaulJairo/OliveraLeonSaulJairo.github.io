@@ -1,6 +1,18 @@
 body{
   background-color: black;
   background-image: url(raven.jpg);
+  text-align: justify;
+
+}
+pre{
+  color:  antiquewhite;
+  font-family: cursive;
+
+}
+
+dd, dt{
+  color:  antiquewhite;
+  font-family: cursive;
 
 }
 
@@ -9,6 +21,22 @@ h1{
    font-family: cursive;
 
 }
+a{
+  color: antiquewhite;
+  font-family: cursive;
+  font-size: 50px;
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+  background: #000;
+}
+#tit{
+  color: antiquewhite;
+  font-size: 50px;
+  font-family: fantasy;
+}
 
 p{
    color:antiquewhite;
@@ -16,5 +44,50 @@ p{
     font-size: 15 px;
     font-weight: bolder;
     font-style: italic;
+}
+.titulo{
+background-color: rgb(147, 61, 43);
 
+    width: 50%;
+    margin: auto;;
+    border-radius: 15px;
+    border: rgb(207, 220, 8);
+}
+.usher,.palabras,.coloquio,.reseñas{
+
+  background-color: rgb(110, 110, 110);
+    float: left;
+    width: 30%;
+    margin: 50px 20px 50px 50px;
+    border-radius: 15px;
+    border: rgb(255, 255, 255);
+    border-style: solid;
+    border-width: 4px;
+}
+
+
+.mesmerica,.eiros,.glos{
+  background-color: rgb(110, 110, 110);
+    float: right;
+    width: 30%;
+    margin: 50px 20px 50px 50px;
+    border-radius: 15px;
+    border: rgb(255, 255, 255);
+    border-style: solid;
+    border-width: 4px;
+}
+
+.cont{
+  background-image: url(ed.jpg);
+  margin: auto;
+}
+
+.cuento{
+  background-color: rgb(46, 4, 2);
+    width: 70%;
+    margin: auto;
+    border-radius: 15px;
+    border: rgb(255, 255, 255);
+    border-style: solid;
+    border-width: 4px;
 }
